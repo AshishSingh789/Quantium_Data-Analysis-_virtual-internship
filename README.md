@@ -1,4 +1,4 @@
-#Quantium Data Analytics Job Simulation - September 2024
+Quantium Data Analytics Job Simulation - September 2024
 
 Welcome to my project repository for the Quantium Data Analytics Job Simulation completed in September 2024. This project showcases my data analytics and commercial insights skills through various tasks, primarily focusing on customer analytics, transaction datasets, and uplift testing.
 
