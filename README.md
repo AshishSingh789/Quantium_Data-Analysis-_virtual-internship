@@ -71,6 +71,5 @@ This project highlights my ability to work with real-world datasets and deliver 
 
 
 
-![Screenshot 2024-09-22 023304](https://github.com/user-attachments/assets/6851f344-533a-4a3b-abbf-37acc6d9a0da)
 
 
